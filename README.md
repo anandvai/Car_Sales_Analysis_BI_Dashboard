@@ -2,6 +2,13 @@
 
 A Business Intelligence dashboard analyzing year-to-date (YTD) car sales performance. Built using Power BI, the dashboard provides interactive insights across regions, brands, body styles, and customer demographics.
 
+## Overview
+![Screenshot 2025-04-13 212541](https://github.com/user-attachments/assets/2f335ba2-4df8-4fa9-a486-dbcdf6c5871a)
+
+## Details
+![Screenshot 2025-04-13 212616](https://github.com/user-attachments/assets/4213ae1a-9667-4a8a-8843-2e524129b554)
+
+
 ---
 
 ## 📁 Dataset Overview
